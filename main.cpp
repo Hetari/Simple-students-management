@@ -10,7 +10,7 @@ using namespace std;
 #include "print_data.hpp"
 #include "add_student.hpp"
 #include "sort_id.hpp"
-#include "hebara_start.hpp"
+#include "start.hpp"
 
 int main()
 {
