@@ -3,7 +3,7 @@ void start()
     system("cls");
     cout << "\t\t\t\t -----------------------------------------" << endl;
     cout << "\t\t\t\t |                                        |" << endl;
-    cout << "\t\t\t\t |  Student Management System (HEBARA 2y) |" << endl;
+    cout << "\t\t\t\t |    Simple Student Management System    |" << endl;
     cout << "\t\t\t\t |                                        |" << endl;
     cout << "\t\t\t\t ------------------------------------------" << endl;
     cout << endl;
