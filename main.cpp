@@ -48,7 +48,7 @@ int main()
             dele(students, student_id);
             break;
         case '5':
-            sort(students.begin(), students.end(), compare);
+            sort(students.begin(), students.end(), compare); // The compare function in sort_id.hpp file
             print_all(students, students.size());
             break;
         case '6':
